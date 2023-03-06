@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Investor's Business Daily",
+      "title": "Dow Jones Futures Fall Ahead Of Manufacturing Data; Elon Musk Readies For Tesla Investor Day - Investor's Business Daily",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5pbnZlc3RvcnMuY29tL21hcmtldC10cmVuZC9zdG9jay1tYXJrZXQtdG9kYXkvZG93LWpvbmVzLWZ1dHVyZXMtcmlzZS1haGVhZC1vZi1tYW51ZmFjdHVyaW5nLWRhdGEtZWxvbi1tdXNrLXRlc2xhLWludmVzdG9yLWRheS_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T14:26:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "The New York Times",
+      "title": "Eli Lilly Says It Will Cut the Price of Insulin - The New York Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDMvMDEvYnVzaW5lc3MvaW5zdWxpbi1wcmljZS1jYXAtZWxpLWxpbGx5Lmh0bWzSAVBodHRwczovL3d3dy5ueXRpbWVzLmNvbS8yMDIzLzAzLzAxL2J1c2luZXNzL2luc3VsaW4tcHJpY2UtY2FwLWVsaS1saWxseS5hbXAuaHRtbA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T14:17:13Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Gizmodo",
+      "title": "Study Links Erythritol Artificial Sweetener to Heart Disease - Gizmodo",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vZ2l6bW9kby5jb20vZXJ5dGhyaXRvbC1hcnRpZmljaWFsLXN3ZWV0ZW5lci1oZWFydC1kaXNlYXNlLXN0dWR5LTE4NTAxNzAxMTHSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T13:46:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "USA TODAY",
+      "title": "COVID-19 pandemic 'most likely' started in Wuhan lab, FBI Director Christopher Wray says - USA TODAY",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzLzIwMjMvMDMvMDEvY292aWQtMTktbGFiLWxlYWstY2hyaXN0b3BoZXItd3JheS8xMTM3Mjc0NjAwMi_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T13:31:04Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "The New York Times",
+      "title": "Alex Murdaugh Murder Jurors to Visit ‘Moselle’ Crime Scene - The New York Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDMvMDEvdXMvYWxleC1tdXJkYXVnaC1qdXJ5LXZpc2l0Lmh0bWzSAUdodHRwczovL3d3dy5ueXRpbWVzLmNvbS8yMDIzLzAzLzAxL3VzL2FsZXgtbXVyZGF1Z2gtanVyeS12aXNpdC5hbXAuaHRtbA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T13:30:13Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "CNN",
+      "title": "Putin ally Lukashenko meets Chinese leader Xi Jinping in Beijing - CNN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMy8wMS9jaGluYS9iZWxhcnVzLWx1a2FzaGVua28tY2hpbmEteGktamlucGluZy1tZWV0aW5nLWJlaWppbmctaW50bC1obmsvaW5kZXguaHRtbNIBcGh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjMvMDMvMDEvY2hpbmEvYmVsYXJ1cy1sdWthc2hlbmtvLWNoaW5hLXhpLWppbnBpbmctbWVldGluZy1iZWlqaW5nLWludGwtaG5rL2luZGV4Lmh0bWw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T13:19:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "PEOPLE",
+      "title": "Hoda Kotb on Leave from Today for 'Family Health Matter' - PEOPLE",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vcGVvcGxlLmNvbS90di9ob2RhLWtvdGItdGFrZXMtdG9kYXktbGVhdmUtZm9yLWZhbWlseS1oZWFsdGgtbWF0dGVyL9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T12:41:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Page Six",
+      "title": "Ed Sheeran's wife, Cherry Seaborn, was diagnosed with tumor during pregnancy - Page Six",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vcGFnZXNpeC5jb20vMjAyMy8wMy8wMS9lZC1zaGVlcmFucy13aWZlLWNoZXJyeS1zZWFib3JuLWRpYWdub3NlZC13aXRoLXR1bW9yLWFtaWQtcHJlZ25hbmN5L9IBZ2h0dHBzOi8vcGFnZXNpeC5jb20vMjAyMy8wMy8wMS9lZC1zaGVlcmFucy13aWZlLWNoZXJyeS1zZWFib3JuLWRpYWdub3NlZC13aXRoLXR1bW9yLWFtaWQtcHJlZ25hbmN5L2FtcC8?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T12:29:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "The New York Times",
+      "title": "Nigeria Presidential Election Live Updates: Bola Tinubu Declared Winner - The New York Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3Lm55dGltZXMuY29tL2xpdmUvMjAyMy8wMi8yOC93b3JsZC9uaWdlcmlhLWVsZWN0aW9uLW5ld3PSAUxodHRwczovL3d3dy5ueXRpbWVzLmNvbS9saXZlLzIwMjMvMDIvMjgvd29ybGQvbmlnZXJpYS1lbGVjdGlvbi1uZXdzLmFtcC5odG1s?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T12:26:19Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "CNN",
+      "title": "Justin Bieber cancels remaining Justice World Tour dates - CNN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMy8wMS9lbnRlcnRhaW5tZW50L2p1c3Rpbi1iaWViZXItY2FuY2Vscy1qdXN0aWNlLXRvdXItaW50bC1zY2xpL2luZGV4Lmh0bWzSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T12:19:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "BBC",
+      "title": "Greece train crash: Survivors describe 'nightmarish seconds' - BBC",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1ldXJvcGUtNjQ4MDY2NzjSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T12:00:59Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "CNBC",
+      "title": "This startup found success using A.I. to build beauty products. But can it keep making money? - CNBC",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDMvMDEvaWwtbWFraWFnZS1jcmVhdG9yLW9kZGl0eS1zYXlzLWl0cy1wcm9maXRhYmxlLmh0bWzSAVZodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyMy8wMy8wMS9pbC1tYWtpYWdlLWNyZWF0b3Itb2RkaXR5LXNheXMtaXRzLXByb2ZpdGFibGUuaHRtbA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T12:00:01Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "CNN",
+      "title": "11 minutes of aerobics daily lowers disease risk, study says - CNN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMi8yOC9oZWFsdGgvbW9kZXJhdGUtcGh5c2ljYWwtYWN0aXZpdHktY2FuY2VyLWRlYXRoLXJpc2std2VsbG5lc3MvaW5kZXguaHRtbNIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T11:45:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "The Hill",
+      "title": "Vanessa Bryant receives nearly $29 million settlement in crash photos lawsuit: report - The Hill",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvMzg3ODUyNi12YW5lc3NhLWJyeWFudC1yZWNlaXZlcy1uZWFybHktMjktbWlsbGlvbi1zZXR0bGVtZW50LWluLWNyYXNoLXBob3Rvcy1sYXdzdWl0LXJlcG9ydC_SAX1odHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzLzM4Nzg1MjYtdmFuZXNzYS1icnlhbnQtcmVjZWl2ZXMtbmVhcmx5LTI5LW1pbGxpb24tc2V0dGxlbWVudC1pbi1jcmFzaC1waG90b3MtbGF3c3VpdC1yZXBvcnQvYW1wLw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T11:44:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Euronews",
+      "title": "Watch Greta Thunberg being carried away by police during anti-wind farm protest in Norway - Euronews",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmV1cm9uZXdzLmNvbS9ncmVlbi8yMDIzLzAzLzAxL2dyZXRhLXRodW5iZXJnLXNheXMtbm9yd2F5cy13aW5kLWZhcm1zLWFyZS1hbi11bmFjY2VwdGFibGUtdmlvbGF0aW9uLW9mLWh1bWFuLXJpZ2h0c9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T11:26:15Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Reuters",
+      "title": "US Supreme Court doubt over student debt relief looms over Biden agenda - Reuters",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2xlZ2FsL3VzLXN1cHJlbWUtY291cnQtZG91YnQtb3Zlci1zdHVkZW50LWRlYnQtcmVsaWVmLWxvb21zLW92ZXItYmlkZW4tYWdlbmRhLTIwMjMtMDMtMDEv0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T11:16:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Fox News",
+      "title": "Scientists debate whether moon should get its own time zone - Fox News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3dvcmxkL3NjaWVudGlzdHMtZGViYXRlLWlmLW1vb24tc2hvdWxkLWdldC1pdHMtb3duLXRpbWUtem9uZdIBWGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3dvcmxkL3NjaWVudGlzdHMtZGViYXRlLWlmLW1vb24tc2hvdWxkLWdldC1pdHMtb3duLXRpbWUtem9uZS5hbXA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T11:00:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Business Insider",
+      "title": "Video: Ukraine soldier destroys 5 Russia tanks in one day, MOD says - Business Insider",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vdmlkZW8tdWtyYWluZS1zb2xkaWVyLWRlc3Ryb3lzLTUtcnVzc2lhLXRhbmtzLWluLWRheS1tb2QtMjAyMy0z0gFjaHR0cHM6Ly93d3cuYnVzaW5lc3NpbnNpZGVyLmNvbS92aWRlby11a3JhaW5lLXNvbGRpZXItZGVzdHJveXMtNS1ydXNzaWEtdGFua3MtaW4tZGF5LW1vZC0yMDIzLTM_YW1w?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T10:10:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "CNN",
+      "title": "Here's why millions of Americans will lose $3 billion in monthly food stamp benefits starting in March - CNN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMy8wMS9wb2xpdGljcy9mb29kLXN0YW1wcy1wYW5kZW1pYy1lbWVyZ2VuY3ktYWxsb3RtZW50cy9pbmRleC5odG1s0gFgaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyMy8wMy8wMS9wb2xpdGljcy9mb29kLXN0YW1wcy1wYW5kZW1pYy1lbWVyZ2VuY3ktYWxsb3RtZW50cy9pbmRleC5odG1s?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T10:00:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "SamMobile - Samsung news",
+      "title": "Galaxy Watch 6 to continue trend of improved battery life on Wear OS smartwatches - SamMobile - Samsung news",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LnNhbW1vYmlsZS5jb20vbmV3cy9nYWxheHktd2F0Y2gtNi1iYXR0ZXJ5LWxpZmUtaW1wcm92ZWQv0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T09:15:00Z",
+      "content": null
+    }
+  ]
+}
