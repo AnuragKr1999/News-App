@@ -12,7 +12,6 @@ export default class App extends Component {
   pageSize = 6;
   apiKey = "0e746d560d594ca19a6571531efc98ca";
   country = "in";
-  category = "science";
 
   render() {
     return (
